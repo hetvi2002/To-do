@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full Stack Todo Application
 
 A modern todo application built with MERN stack (MongoDB, Express.js, React.js, Node.js) featuring user authentication and CRUD operations.
@@ -36,3 +37,6 @@ A modern todo application built with MERN stack (MongoDB, Express.js, React.js, 
 
 ### Backend Setup
 1. Clone the repository 
+=======
+# To-do
+>>>>>>> c8f9102bb1a3488356b48d9cf1bf82ab4a2130e5
